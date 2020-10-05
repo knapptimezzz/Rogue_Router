@@ -1,5 +1,7 @@
 # Rogue_Router
 
+This is a fork of the original rogue router which you can pull from Spark Fun. This repo hasn't seen some love in a while so I wanted to fork it and update it just for fun. Plus maybe add a bunch of other rogue like things to the lists. Look forward to updates. - knapptimezzz
+
 Solar Access Point Fileserver for SparkFun Thing
 Featured here: https://www.sparkfun.com/news/2009
 
